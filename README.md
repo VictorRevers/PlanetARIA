@@ -11,7 +11,7 @@ O projeto foi desenvolvido utilizando a engine Unity3D, linguagem de programaç�
 Com o uso da biblioteca Vuforia temos a visualização dos modelos 3D dos principais astros do sistema solar
 
 <p align="center">
-    <img src="https://i.pinimg.com/736x/57/6c/98/576c988f0aa157170eb5786087edf7a8.jpg" alt="ChatGPT integration" width="280"/>
+    <img src="https://i.pinimg.com/736x/f6/e3/2e/f6e32eb567b12f00db996e4061065618.jpg" alt="ChatGPT integration" width="280"/>
 </p>
 
 ## Inteligência Artificial 🤖
