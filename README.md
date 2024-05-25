@@ -24,7 +24,8 @@ Utilizando o pacote OpenAI-Unity, o usuário pode fazer perguntas diretamente a 
 
 ## Link para download do aplicativo 🔭 (Disponível somente para Android)
 
-[![Clique aqui](https://img.shields.io/badge/Download-A020F0?style=for-the-badge)](https://drive.google.com/file/d/1o6a0rPV3UDHGjgChhpL6D26Vq0QAyCsq/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1o6a0rPV3UDHGjgChhpL6D26Vq0QAyCsq/view?usp=sharing" target="_blank">![Clique aqui](https://img.shields.io/badge/Download-A020F0?style=for-the-badge)</a>
+
 
 ## Desenvolvedores 🧑‍💻
 
