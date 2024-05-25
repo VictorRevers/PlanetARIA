@@ -26,7 +26,7 @@ Utilizando o pacote OpenAI-Unity, o usuário pode fazer perguntas diretamente a 
 
 <a src="google.com"/>
 
-## Desenvolvedores
+## Desenvolvedores 🧑‍💻
 
 | **Nome**                              | **Lattes**                              | **Linkedin**                                                             |
 | ------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------ |
